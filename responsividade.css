@@ -1,0 +1,45 @@
+body{
+ 
+    margin: 0;
+    padding: 0;
+    background-color:white;
+}
+ 
+
+.menu{
+ 
+    height: 50px;
+    width: 100%;
+    background-color:#030305 ;
+    backdrop-filter: blur(5px);
+    display: flex;
+    justify-content: space-between;
+    position: center;
+    font-size: 17px;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    
+ 
+}
+ 
+a{
+    color: white;
+    margin: auto;
+    text-decoration: none;
+}
+ 
+.iphone{
+  margin-top: 100px;
+  margin-bottom: 30%;
+
+
+}
+ 
+
+}
+
+
+
+   
+
+
+    
